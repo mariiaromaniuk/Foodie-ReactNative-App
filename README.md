@@ -16,5 +16,5 @@ Foodie App is a multiplatform mobile application. As the foundation for this app
 * Firebase
 * NativeBase
 * MobX
-* JavaScript, VS Code
+* Android Studio, Xcode, VS Code
 * iMovie, Adobe Creative Cloud
