@@ -6,4 +6,15 @@ Foodie App is a multiplatform mobile application. As the foundation for this app
 
 * _**NativeBase**_ is a UI framework that wraps React Native's components and provides several commonly used components like buttons, icons, cards, etc. It allows for an app theme so you can change the look of your application from one file instead of every component. This makes application development faster and the mobile application has a more uniform look. 
 
-* _**MobX**_ is a state management library similar to Redux which is the current de facto state management library. However, unlike Redux, MobX strives to be as simple as possible. It takes care of everything you normally have to write by hand in Redux and does it in an extremely efficient manner. You don't need a bunch of boiler plates or to worry about actions and reducers. MobX handles everything for you. The only thing you need to do is make the data you are storing an observable and the component that is changing that data an observer. MobX takes care of the rest. In my application, I used MobX in conjunction with Firebase to keep my external database and my internal application state in sync. I could make my application just using Firebase. But since most applications use a state management framework, it was a good idea for me to learn one and MobX is the fastest to get started with. 
+* _**MobX**_ is a state management library similar to Redux which is the current de facto state management library. However, unlike Redux, MobX strives to be as simple as possible. It takes care of everything you normally have to write by hand in Redux and does it in an extremely efficient manner. You don't need a bunch of boiler plates or to worry about actions and reducers. MobX handles everything for you. The only thing you need to do is make the data you are storing an observable and the component that is changing that data an observer. MobX takes care of the rest. In my application, I used MobX in conjunction with Firebase to keep my external database and my internal application state in sync. I could make my application just using Firebase. But since most applications use a state management framework, it was a good idea for me to learn one and MobX is the fastest to get started with.  
+
+![](images/1.png)
+![](images/2.png)
+
+## Technologies Used
+* React Native
+* Firebase
+* NativeBase
+* MobX
+* JavaScript, VS Code
+* iMovie, Adobe Creative Cloud
